@@ -82,6 +82,7 @@ def textUpdate():
     BtnExit.grid(row = 1, column = 1, columnspan = 5)
 
 
+
 show_frame(frame1)
 root.update()
 root.mainloop()
